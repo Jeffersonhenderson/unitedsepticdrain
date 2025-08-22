@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What’s the difference between septic pumping and cleaning?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Septic pumping is when we remove the liquid and floating waste from your tank. Septic cleaning goes a step further; we flush out the hardened sludge and buildup stuck to the tank walls.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you do emergency septic repairs?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we do. We are like your backup system; you can rely on us whenever there’s trouble. You can call us anytime, and we’ll show up fast, fix the issue, and clean up like we were never there.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How often should I pump my septic tank?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">It depends on how many people use the property, but generally every 3 to 5 years is a good rule. If you’re noticing slow drains or foul smells, don’t hesitate to give us a call.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can you install a new septic system from scratch?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We handle full septic tank installations. We do the digging, connect the system, and take care of the final inspection, making sure we secure all required permits in #State. We’ll walk you through every step.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How long does it take your team to install a septic tank?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A typical septic tank installation can take anywhere from 1 to 5 days depending on your property, permit approvals, and weather. But we keep you updated every step of the way.</p>
+                <div class="callalooma mx-auto"><a href="tel:208-487-4868">Click Here To Call Us (208) 487-4868</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
